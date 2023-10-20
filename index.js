@@ -30,3 +30,8 @@ reset.addEventListener('click', resetFunction)
 
 const bold = document.getElementById('bold')
 bold.addEventListener("mouseover", boldFunction)
+
+const getDuck = () => {
+  //Completar usando async await o fech then :)
+  //fetch("https://random-d.uk/api/random");
+}
