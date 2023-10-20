@@ -14,3 +14,5 @@ Luego cuando el jugador le de click a 'play' será la siguiente:
 Acá se activaran los botones y apareceran los textos de "score" y "win/lose/tie"
 
 ![image](https://user-images.githubusercontent.com/26677733/197622297-3ac9e95c-0724-4aba-a83c-7c88c948ce64.png)
+
+Cada que el jugador gane debe mostrarse una imagen de la siguiente api: https://random-d.uk/api/random
