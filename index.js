@@ -32,6 +32,15 @@ const bold = document.getElementById('bold')
 bold.addEventListener("mouseover", boldFunction)
 
 const getDuck = () => {
-  //Completar usando async await o fech then :)
-  //fetch("https://random-d.uk/api/random");
+  /**Completar usando async await o fetch then :)
+  fetch("https://random-d.uk/api/random");
+const awaitFetch = async() => {
+  try {
+  }
+  catch(error){
+  }
+  finally{
+  }
+}
+  */
 }
